@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.left-side-text{margin-top: 76px;
+}
+h1{
+    font-size: 50px;
+}
+.skip-color{
+    color: blue;
+}
+.top-container{
+    display: flex;
+    padding-top: 50px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, rgb(99, 113, 196));
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
